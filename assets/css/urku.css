@@ -1007,7 +1007,8 @@ body {
 }
 
 .item-1 {
-  background-image: url("../img/project-1.jpg");
+  background-image: url("../img/wyntech-shirtz.svg");
+  background-color: #f9f9f9;
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-1 {
@@ -1016,19 +1017,23 @@ body {
 }
 
 .item-2 {
-  background-image: url("../img/project-2.jpg");
+  background-image: url("../img/wyntech-shirtz.svg");
+  background-color: #f9f9f9;
 }
 
 .item-3 {
-  background-image: url("../img/project-3.jpg");
+  background-image: url("../img/wynwood-tees.svg");
+  background-color: #f9f9f9;
 }
 
 .item-4 {
-  background-image: url("../img/project-4.jpg");
+  background-image: url("../img/wyntech-shirtz.svg");
+  background-color: #f9f9f9;
 }
 
 .item-5 {
   background-image: url("../img/project-5.jpg");
+  background-color: #f9f9f9;
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-5 {
@@ -1037,7 +1042,7 @@ body {
 }
 
 .item-6 {
-  background-image: url("../img/project-6.jpg");
+  background-image: url("../img/luxury-products-black.svg");
 }
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .item-6 {
